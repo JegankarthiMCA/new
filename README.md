@@ -1,12 +1,18 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=26F7EB&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+<YourName>+👋;Welcome+to+my+GitHub+Profile!;Full+Stack+Developer+💻;Open+Source+Contributor+🌐;Let's+Build+Something+Awesome!+🚀" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=26F7EB&center=true&vCenter=true&width=600&lines=Hello,+World!+👋;I'm+<Your Name>!;A+Passionate+Developer+💻;Always+Learning+New+Things!+🚀" alt="Typing Animation">
 </p>
 
-<!-- Intro Section -->
+<!-- Hero Animation -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="Coding Animation" width="500" />
+</p>
+
+---
+
 <h2 align="center"> 👨‍💻 About Me </h2>
-<p align="center"> 
-  <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" width="350" />
+<p>
+  <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="350" />
   <samp>
     🎓 I am <b><Your Name></b>, a passionate developer from <b>Your Location</b>. <br>
     🌟 I specialize in building modern, scalable, and user-friendly web applications.<br>
@@ -40,6 +46,10 @@
 ---
 
 <h2 align="center"> 💻 Skills & Tools </h2>
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Skills GIF" width="400" />
+</p>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,express,html,css,mongodb,postgres,git,docker,kubernetes,aws,linux,figma,python&theme=dark" alt="Skills">
 </p>
