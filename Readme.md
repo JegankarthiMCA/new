@@ -51,10 +51,10 @@
 <p align="center">Here are some of my projects that showcase what I’m learning:</p>
 <p align="center">
   <a href="https://github.com/yourusername/project1" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=light" alt="Project 1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JegankarthiMCA" alt="Jegan's">
   </a>
   <a href="https://github.com/yourusername/project2" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=light" alt="Project 2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JegankarthiMCA" alt="Pugal's">
   </a>
 </p>
 
